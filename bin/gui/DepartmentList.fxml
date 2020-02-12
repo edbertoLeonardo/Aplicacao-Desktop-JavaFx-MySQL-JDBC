@@ -29,6 +29,9 @@
         <items>
           <Button fx:id="buttonNew" mnemonicParsing="false" onAction="#onButtonNewAction" text="New" />
         </items>
+         <opaqueInsets>
+            <Insets bottom="50.0" />
+         </opaqueInsets>
       </ToolBar>
    </children>
 </VBox>
